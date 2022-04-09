@@ -1,0 +1,38 @@
+.nav{
+	background-color: darkred;
+}
+
+.heads {
+  color: red;
+}
+
+.active {
+  border: 1px solid brown;
+  font-weight: bold;
+}
+
+.col-md-10 h4 {
+	color: lightblue;
+}
+
+.col-md-10 button {
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+footer {
+  background-color: darkred;
+  margin-top: 50px;
+}
+
+footer p {
+  color: white;
+}
+
+footer ul li {
+  list-style: none;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: lightblue;
+}
